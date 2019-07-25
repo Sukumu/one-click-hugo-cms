@@ -1,6 +1,6 @@
 ---
 title: "Great coffee with a conscience"
-subtitle: "Support"
+subtitle: Support
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Who do we serve?
