@@ -1,28 +1,27 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Post production.'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  In the post production phase of each project, determines what services are necessary to produce the requested number of release prints or video tapes. 
+  Nanjala Media directs, coordinates and approves this work as it is being accomplished, whether performed in-house or by contractor.
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+When foreign language versions of these productions are requested, Nanjala Media directs the selection and contracting of suitable personnel capable of translating and/or narrating from the English script material.  
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Nanjala Media specializes in post-production editing techniques and computerized editing equipment to edit taped material, graphics, and special effects into final audiovisual products. 
 
-## A little history
+## Videotaping and Editing services.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Nanjala Media oversees the work of and works with production and post-production equipment including switchers, routers, recorders, non-linear editors, character generators, audio mixers to produce off-line preliminary edits and finalized on-line products ready for distribution.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+>Nanjala Media manages the technical aspects and capabilities of video camera, editing equipment, time base correctors, character generator, special effects generators, switches, and test and calibration instrumentation associated with this media; interfacing of these components; and how to operate and coordinate the utilization of equipment. 
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+We ensure are artist, authors and technicians are paid fairly and generously.
 
 ## What you need to know before trying
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+We are a full service video production company.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+We love creating content people love and want to share. 
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+Our services include high-definition videography.
