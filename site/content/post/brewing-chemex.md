@@ -1,10 +1,8 @@
 ---
-title: "Production Costs."
+title: 'Production Costs.'
 date: 2017-01-04T15:04:10.000Z
 description: >-
-Monitors costs of in-house and commercially contracted audiovisual media programs. Prepares cost estimates and budgets for projects; monitors and reports costs through all production phases as required by requestor. 
-Based on cost analysis of manpower, travel, supplies, equipment and all other pertinent production factors, determines acceptability of proposed production costs.
-These services may include animation or art work, narrator, sound and music selection, mixing and recording, camera crews and editors. 
+ Monitors costs of in-house and commercially contracted audiovisual media programs. Prepares cost estimates and budgets for projects;      monitors and reports costs through all production phases as required by requestor.  Based on cost analysis of manpower, travel, supplies, equipment and all other pertinent production factors, determines acceptability of proposed production costs. These services may include animation or art work, narrator, sound and music selection, mixing and recording, camera crews and editors. 
 image: /img/blog-chemex.jpg
 ---
 
