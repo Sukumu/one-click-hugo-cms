@@ -1,8 +1,8 @@
 ---
-title: 'Media & Motion Picture Production.'
-type: 'products'
+title: "Media & Motion Picture Production."
+type: "products"
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: "What we offer"
 description: >-
   Nanjala Media determines how best to present a proposed program and select writers, actors, and any other personnel to carry out the processes involved in the production. We oversee the design, coordination and sets-up of on-location and studio shoots, including equipment selection, transport, setup, lighting, audio and video recording.
 intro:
