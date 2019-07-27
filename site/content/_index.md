@@ -15,5 +15,5 @@ products:
       text: "Nanjala Media plans, organizes, and directs the work of writers, editors, actors, narrators, musicians, set designers, audio and lighting technicians, camera operators, and other associated technical personnel."
 values:
     heading: Our values
-    text:"Media is an integral part of our society, however, some of the most important stories from unsung heroes are never told in a meaningful and graphical way. We want to turn this around and return to the art of storytelling with visuals and sounds to match. We want to empower common people, small-to-medium sized companies and non-profits to share their stories, market their brands and provide practical education that’s beneficial to community."
+    text: Media is an integral part of our society, however, some of the most important stories from unsung heroes are never told in a meaningful and graphical way. We want to turn this around and return to the art of storytelling with visuals and sounds to match. We want to empower common people, small-to-medium sized companies and non-profits to share their stories, market their brands and provide practical education that’s beneficial to community.
 ---
