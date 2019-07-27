@@ -1,7 +1,7 @@
 ---
 title: "Great coffee with a conscience"
 subtitle: Support
-image: /img/home-jumbotron.jpg
+image: /img/media6.jpg
 blurb:
     heading: Who do we serve?
     text: "Nanjala Media productions/projects are made at the request of everyday people, companies, non-profit organizations and private institutions."
