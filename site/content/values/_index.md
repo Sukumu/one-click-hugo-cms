@@ -16,7 +16,7 @@ values:
       disadvantage communities. Many of the people we serve are also
       often the people to whom we bring stories to light.
       Bringing beneficial stories to light is our passion.
-     We love interesting stories.
+      We love interesting stories.
     imageUrl: "/img/media4.jpg"
   - heading: "Concept Creation"
     text: >
@@ -28,10 +28,10 @@ values:
     imageUrl: "/img/media5.jpg"
   - heading: "Creativity"
     text: >
-       We conduct creative analysis of subjects that deal primarily with 
+      We conduct creative analysis of subjects that deal primarily with 
       abstract themes or ideas requiring a high degree of creativity and 
       ingenuity to effectively communicate the story of others. 
-       We provide creative input to clients, talent and directors on 
+      We provide creative input to clients, talent and directors on 
       sequencing, mixing and special effects/motion graphics design.
     imageUrl: "/img/media6.jpg"
   - heading: "Reinvest profits"
