@@ -9,9 +9,9 @@ intro:
     heading: "What we offer"
     text: "Nanjala Media specializes in production of videotaped; prerecorded podcast; motion picture films; teleconferences; and slide shows with sound accompaniments."
 products:
-    - image: img/illustrations-coffee.svg
+    - image: img/Camera1.svg
       text: "Nanjala Media brings stories, brands and concepts to fruition with photography, video, sound, and animation."
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/Camera2.svg
       text: "Nanjala Media plans, organizes, and directs the work of writers, editors, actors, narrators, musicians, set designers, audio and lighting technicians, camera operators, and other associated technical personnel."
 values:
     heading: Our values
