@@ -1,6 +1,6 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
+image: /img/media2.jpg
 values:
   - heading: "Media Production"
     text: >
@@ -9,7 +9,7 @@ values:
       team oversees all aspects of audio/visual production and post-
       production of programming, materials, and Webcasts to include 
       productions, such as displays, slide shows, and graphics designs.
-    imageUrl: "/img/about-shade-grown.jpg"
+    imageUrl: "/img/media3.jpg"
   - heading: "Community Outsourcing"
     text: >
       We outsource to small businesses and provide opportunities to
@@ -17,7 +17,7 @@ values:
       often the people to whom we bring stories to light.
       Bringing beneficial stories to light is our passion.
      We love interesting stories.
-    imageUrl: "/img/about-single-origin.jpg"
+    imageUrl: "/img/media4.jpg"
   - heading: "Concept Creation"
     text: >
       Nanjala Media oversees the concept creation and produces all
@@ -25,7 +25,7 @@ values:
       effects, backdrops, graphics enhancements, music, motion media 
       and other treatments to deliver a complete product. Produces 
       intros, transitions, and animated motion graphics composites.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+    imageUrl: "/img/media5.jpg"
   - heading: "Creativity"
     text: >
        We conduct creative analysis of subjects that deal primarily with 
@@ -33,7 +33,7 @@ values:
       ingenuity to effectively communicate the story of others. 
        We provide creative input to clients, talent and directors on 
       sequencing, mixing and special effects/motion graphics design.
-    imageUrl: "/img/about-direct-sourcing.jpg"
+    imageUrl: "/img/media6.jpg"
   - heading: "Reinvest profits"
     text: >
       We want to truly empower the underprivileged communities that 
@@ -41,5 +41,5 @@ values:
       profits into, local businesses, charities and schools everywhere 
       our movies are filmed and produced. We care about people and 
       love being able to provide to communities.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+    imageUrl: "/img/media7.jpg"
 ---
