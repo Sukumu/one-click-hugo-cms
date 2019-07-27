@@ -1,8 +1,8 @@
 ---
-title: "Media & Motion Picture Production."
+title: Media & Motion Picture Production.
 type:  products
 image: /img/media4.jpg
-heading: "What we offer"
+heading: What we offer
 description: >-
    Nanjala Media determines how best to present a proposed program and select writers, actors, and any other personnel to carry out the  processes involved in the production. We oversee the design, coordination and sets-up of on-location and studio shoots, including equipment selection, transport, setup, lighting, audio and video recording.
 intro:
@@ -16,7 +16,7 @@ intro:
         techniques and evidence of the creative ability required in communicating information through television.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-         Our media productions are intended to tell personal journeys, document lifestyles, teach technical 
+        Our media productions are intended to tell personal journeys, document lifestyles, teach technical 
         know-how, brand, market or orient audiences on concepts, activities goals, missions, and accomplishments 
         of companies and individuals. We enjoy the challenge of producing motion pictures/videos, slide films, and 
         multimedia projects.
@@ -33,23 +33,23 @@ intro:
         That’s why we decided to turn a corner on how and from whom they are produced for as we offer a
         platform where you can bring ideas to screen for story lovers and lifetime learners.
         Movie production is much of an Art as it is skill. We believe good art should be rewarded
-       We ensure are artist, authors and technicians are paid fairly and generously.
+        We ensure are artist, authors and technicians are paid fairly and generously.
   heading: What we offer
   description: >
     Script Writing. 
-    Nanjala Media formulates and arranges for the writing of motion picture/video and multimedia scenarios, scripts and story boards.
-  We select script writers for specific media/subject matter, after reviewing their work, brand or mission, so as to 
-    determine team of writers is most likely to translate the requestor’s goals into a successful product.
+        Nanjala Media formulates and arranges for the writing of motion picture/video and multimedia scenarios, scripts and story boards.
+        We select script writers for specific media/subject matter, after reviewing their work, brand or mission, so as to 
+        determine team of writers is most likely to translate the requestor’s goals into a successful product.
 main:
   heading: Script Reviews
   description: >
-    We review the script material as it develops from treatment of overall concept through draft and final stages. 
-    Our Production team guides and recommends changes in order that script remains consonant and compatible 
-    with the requestor’s goals and that the ultimate production phases are within inherent technical, logistical 
-    and financial parameters and restraints. Following script approval, selects or proposes professional actors where required.
+        We review the script material as it develops from treatment of overall concept through draft and final stages. 
+        Our Production team guides and recommends changes in order that script remains consonant and compatible 
+        with the requestor’s goals and that the ultimate production phases are within inherent technical, logistical 
+        and financial parameters and restraints. Following script approval, selects or proposes professional actors where required.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/media9.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/media5.jpg
@@ -65,7 +65,7 @@ testimonials:
     quote: >-
       Nanjala Media is the place to go if you want the best quality movie production. I love their
       stance on empowering community storytelling.
-full_image: /img/products-full-width.jpg
+full_image: /img/media18.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -76,8 +76,8 @@ pricing:
     - description: Sounds
       items:
         -  Prepares or directs preparation of various sound track elements, voice-over narration, dialogue, sound effects and music. 
-        - Mixes or directs the mixing of these sound tracks into a composite sound track which compliments and enhances the picture portion of the production."
-        - We manage animation audio records, music selection and scoring, performing and/or directing the editing of motion picture/video tape, all of which culminate in a complete production or multimedia package in English and foreign language versions."
+        -  Mixes or directs the mixing of these sound tracks into a composite sound track which compliments and enhances the picture portion of the production."
+        -  We manage animation audio records, music selection and scoring, performing and/or directing the editing of motion picture/video tape, all of which culminate in a complete production or multimedia package in English and foreign language versions."
       plan: Small
       price: '50'
     - description: 'Great for avid media consumers, production-lovers '
