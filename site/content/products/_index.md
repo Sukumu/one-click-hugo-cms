@@ -7,27 +7,27 @@ description: >-
    Nanjala Media determines how best to present a proposed program and select writers, actors, and any other personnel to carry out the  processes involved in the production. We oversee the design, coordination and sets-up of on-location and studio shoots, including equipment selection, transport, setup, lighting, audio and video recording.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/Camera1.svg
       text: >
         Nanjala Media determines the appropriate method of coverage based on 
         communications goals and objectives for the project, location, environment, and 
         available time and resources. A final production review is conducted by the Nanjala 
         Media for proper and sufficient use of established motion picture production 
         techniques and evidence of the creative ability required in communicating information through television.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/Camera2.svg
       text: >
         Our media productions are intended to tell personal journeys, document lifestyles, teach technical 
         know-how, brand, market or orient audiences on concepts, activities goals, missions, and accomplishments 
         of companies and individuals. We enjoy the challenge of producing motion pictures/videos, slide films, and 
         multimedia projects.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/Cut1.svg
       text: >
         Have a great story, but never knew how to produce one? Bought a
         fancy new camera but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our production team
         to learn anything you want to know about pre and post production.
         Email us or call us for details.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/Camera1.svg
       text: >
         We believe that good movie production has the power to bring people together.
         That’s why we decided to turn a corner on how and from whom they are produced for as we offer a
