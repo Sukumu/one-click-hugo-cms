@@ -1,5 +1,5 @@
 ---
-title: "Great coffee with a conscience"
+title: "Media production with a conscience"
 subtitle: Support
 image: /img/media6.jpg
 blurb:
