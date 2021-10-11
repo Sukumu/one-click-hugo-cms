@@ -53,8 +53,6 @@
     "postcss-import": "^12.0.1",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.3.0",
-    "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4",
     "easybase-react": "^1.3.16",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
