@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { EasybaseProvider, useEasybase } from "easybase-react";
-import ebconfig from "./ebconfig.json";
+import ebconfig from "./ebconfig.js";
+import Container from "./container.jsx";
 //import React from "react";
 import format from "date-fns/format";
 
